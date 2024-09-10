@@ -1,4 +1,4 @@
-# RV
+# VR Demo
 
 ### Controls:
 - Move forward: Left joystick
